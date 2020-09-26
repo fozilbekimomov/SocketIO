@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">socket.io1</string>
+    <string name="base_url">https://socketio-chat-h9jt.herokuapp.com</string>
+</resources>
